@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MZ80CGROM-rescue)(type Legacy)(uri ${KIPRJMOD}/MZ80CGROM-rescue.lib)(options "")(descr ""))
+  (lib (name 2532)(type Legacy)(uri ${KIPRJMOD}/Symbols/2532.lib)(options "")(descr ""))
+)
