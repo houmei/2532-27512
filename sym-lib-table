@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name 2532)(type Legacy)(uri ${KIPRJMOD}/Symbols/2532.lib)(options "")(descr ""))
+  (lib (name 2532)(type Legacy)(uri ${KICAD_MY_SYMBOLS}/2532.lib)(options "")(descr ""))
 )
